@@ -6,4 +6,6 @@
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
+<h1 class="my-4 ml-10 text-3xl">Quartiles Solver</h1>
+
 {@render children()}

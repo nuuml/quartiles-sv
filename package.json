@@ -47,6 +47,8 @@
 	},
 	"dependencies": {
 		"@skeletonlabs/skeleton": "^4.13.0",
-		"@skeletonlabs/skeleton-svelte": "^4.13.0"
+		"@skeletonlabs/skeleton-svelte": "^4.13.0",
+		"en-dictionary": "^2.0.3",
+		"en-wordnet": "^2.0.11"
 	}
 }

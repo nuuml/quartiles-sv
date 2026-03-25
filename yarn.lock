@@ -1582,6 +1582,19 @@ devalue@^5.6.4:
   resolved "https://registry.yarnpkg.com/devalue/-/devalue-5.6.4.tgz#aec6cdba0e4109543b40c94d46e2b87bf8af8de5"
   integrity sha512-Gp6rDldRsFh/7XuouDbxMH3Mx8GMCcgzIb1pDTvNyn8pZGQ22u+Wa+lGV9dQCltFQ7uVw0MhRyb8XDskNFOReA==
 
+en-dictionary@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/en-dictionary/-/en-dictionary-2.0.3.tgz#fe94e01098758214fe3777e0fdd48fd59d0aa175"
+  integrity sha512-u1jb2r7rCNvpybYcxHfRLN+4X7ZOk2mQbP+vpS2uF+ZI9ujSLUMKel/evFc9JMZzKQKqvUD0OzM2x0rfK5erOA==
+  dependencies:
+    en-wordnet "^2.0.11"
+    reiterator "^1.1.4"
+
+en-wordnet@^2.0.11:
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/en-wordnet/-/en-wordnet-2.0.11.tgz#95035dc3f5df8c47176bd241acadb01dfd586ad0"
+  integrity sha512-YauwZMcS/2IxjwiCF+kSXY+mKOdXLKy4c5W8rIrpMunowF2+nnrmCAXzfVb1GnDMiXIJJXX69g1vhWV7JOyL1w==
+
 enhanced-resolve@^5.19.0:
   version "5.20.1"
   resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-5.20.1.tgz#eeeb3966bea62c348c40a0cc9e7912e2557d0be0"
@@ -2240,6 +2253,11 @@ readdirp@^4.0.1:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/readdirp/-/readdirp-4.1.2.tgz#eb85801435fbf2a7ee58f19e0921b068fc69948d"
   integrity sha512-GDhwkLfywWL2s6vEjyhri+eXmfH6j1L7JE27WhqLeYzoh/A3DBaYGEj2H/HFZCn/kMfim73FXxEJTw06WtxQwg==
+
+reiterator@^1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/reiterator/-/reiterator-1.1.4.tgz#7df8b9d180f6a343ae4ca0be67f0aabcfe3dcb77"
+  integrity sha512-6hfs8reV4O51fuycIpCY1DppU6H/kTW2Q0YYFcyXh9y5QUQDdANJrRpTY4XcbST/EA5ixpC779k0czPDW7zU3g==
 
 rolldown@1.0.0-rc.11:
   version "1.0.0-rc.11"
